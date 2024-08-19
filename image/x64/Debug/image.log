@@ -1,0 +1,4 @@
+﻿  image.cpp
+D:\cv\image\image.cpp(11,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\cv\image\image.cpp(43,12): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  image.vcxproj -> D:\cv\image\x64\Debug\image.exe
